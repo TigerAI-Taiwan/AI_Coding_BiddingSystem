@@ -1,0 +1,5 @@
+# === GitHub 只放 README.md,其餘程式碼一律不上傳 ===
+# 規則:忽略根目錄所有東西,只放行 README.md 與本 .gitignore
+/*
+!/README.md
+!/.gitignore
